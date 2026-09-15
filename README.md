@@ -1,12 +1,12 @@
 # 研究笔记
 
-按主题归档的研究文章，使用 GitHub Pages 发布到 [note.laukkw.space](http://note.laukkw.space/)。
+按主题归档的研究文章，使用 GitHub Pages 发布到 [note.laukkw.space](https://note.laukkw.space/)。
 
 ## DeFi / 去中心化金融
 
 | 文章 | 网页 | 文件 |
 | --- | --- | --- |
-| Uniswap V3：AMM、集中流动性与手续费 | [阅读](http://note.laukkw.space/defi/uniswap-v3.html) | [uniswap-v3.html](defi/uniswap-v3.html) |
+| Uniswap V3：AMM、集中流动性与手续费 | [阅读](https://note.laukkw.space/defi/uniswap-v3.html) | [uniswap-v3.html](defi/uniswap-v3.html) |
 
 ## 目录结构
 
